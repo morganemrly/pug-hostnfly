@@ -1,0 +1,245 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:400,400i,500,500i,700,700i');
+body {
+  font-family: sans-serif;
+  background-color: #fafafa;
+    font-family: 'Ubuntu', sans-serif;
+margin: 0;
+    padding: 0;
+    
+}
+
+
+
+
+/*values*/
+.values {
+    padding-bottom: 60px;
+}
+.values__title,
+.values__text2 {
+  color: #1e629f;
+}
+
+.values__img{
+    width: 100px;
+}
+
+/*management*/
+
+.management {
+  background-image: url("../img/background-management.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+    padding-bottom: 150px;
+    padding-top: 50px;
+    
+}
+.management__title {
+    font-size: 2rem;
+}
+.management_subtitles {
+    font-size: 1rem;
+}
+.management__title,
+.management__subtitles {
+  color: #1e629f;
+}
+.management__text {
+  color: #1e629f;
+  font-weight: bold;
+}
+.management__headlines {
+  padding-bottom: 150px;
+}
+.management__img {
+  width: 100px;
+  padding-right: 150px;
+}
+
+/*statistics*/
+
+.statistics {
+    padding-top: 100px;
+    padding-bottom: 150px;
+}
+
+.statistics__title {
+  color: #1e629f;
+padding-bottom: 150px;
+    font-size: 2rem;
+}
+
+.statistics__appartment, .statistics__earnings, .statistics__passenger {
+  text-align: center;
+  background-color: white;
+    height: 300px;
+box-shadow: 8px 8px 8px 8px #d3d3d3; 
+    border-radius: 5px;
+}
+
+.number-appartment {
+  color: #927eec; 
+    font-size: 64px ;
+}
+
+.number-appartment-title {
+    color: #1e629f;
+    font-size: 14px;
+    padding: 0;
+}
+.number-passenger {
+  color: #4a7dd8; 
+    font-size: 64px ;
+}
+
+.number-passenger-title {
+    color: #1e629f;
+    font-size: 14px;
+    padding: 0;
+}
+.number-earnings {
+  color: #6de8d7; 
+    font-size: 64px ;
+}
+
+.number-earnings-title {
+    color: #1e629f;
+    font-size: 14px;
+    padding: 0;
+}
+
+
+/* reviews*/
+
+.reviews {
+    padding-bottom: 100px;
+}
+
+.reviews__information {
+    background-color: white;
+    box-shadow: 8px 8px 8px 8px #d3d3d3; 
+    padding-right: 35px;
+    padding-left: 35px;
+}
+
+.reviews__stars {
+    padding-top: 40px;
+    padding-left: 50px;
+}
+
+.reviews__text {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.all-reviews {
+    background-color: yellow;
+    text-decoration: none;
+    color: #1e629f;
+}
+.reviews_information {
+    padding-left: 50px;
+    padding-right: 50px; 
+    padding-bottom: 40px;
+    
+}
+
+
+    
+.reviews__title {
+    color: #1e629f;
+}
+
+.user-info {
+    color: #1e629f;
+    width: 450px;
+}
+
+/* questions*/
+
+.questions {
+    padding-bottom: 100px;
+}
+.questions__title {
+    padding-bottom: 150px;
+    color: #1e629f;
+    font-size: 2rem;
+}
+
+.questions__text {
+    color: #23a2c1;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.questions__image {
+    width: 20px;
+    
+}
+
+.questions__list {
+    border: 1px solid lightgray;
+    background-color: white;
+    border-radius: 3px;
+}
+
+.questions-link {
+    background-color: yellow;
+    text-decoration: none;   
+}
+
+/*partners*/
+
+.partners {
+    
+    background-color: #eaeaea;
+    background-size: cover;
+    padding: 50px 0px 50px 0px;
+}
+
+.patners__img {
+    width: 70px;
+}
+
+/*footer*/
+
+.footer {
+    background-color: #333333;
+    background-size: cover;
+    padding-top: 30px;
+    
+
+}
+
+.social-network {
+    padding-bottom: 100px;
+}
+
+.footer__img{
+    width: 35px;
+}
+
+.footer__logo {
+    width: 150px;
+}
+
+.footer__text {
+    color: white;
+}
+
+.footer__link {
+    color: white;
+    text-decoration: none;
+}
+
+.footer__title {
+    color: white;
+}
+
+.footer__adress {
+    color: white;
+}
+
+
+
+

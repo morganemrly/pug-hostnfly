@@ -1,0 +1,36 @@
+.article {
+	font-family: sans-serif;
+	width: 400px;
+	margin: 0 auto;
+	&__imgContainer {
+	  margin-top: 20px;
+	  height: 100px;
+	  background: aquamarine;
+	  border-radius: 4px;
+	  &--isBlue {
+		background: blue;
+	  }
+	}
+	&__title {
+	  padding: 20px 0;
+	  font-size: 24px;
+	  text-align: center;
+	}
+	&__text {
+	  font-size: 16px;
+	  line-height: 22px;
+	}
+  }
+  
+  .article {
+	// stuff
+  }
+  .article__imgContainer {
+	// stuff
+  }
+  .article__title {
+  
+  }
+  .article__text {
+	
+  }
